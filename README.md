@@ -1,4 +1,4 @@
-![3D Website Animated](https://github.com/Ahmed-Mohamed-Saeed/3D-Website-Animated/blob/master/public/img/gaming.jpg "This site looks cool doesn't it?")
+![3D Website Animated](https://github.com/Ahmed-Mohamed-Saeed/3D-Website-Animated/blob/main/public/img/gaming.jpg "This site looks cool doesn't it?")
 
 <div align="center">
   <div>
